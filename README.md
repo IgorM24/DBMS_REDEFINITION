@@ -4,7 +4,7 @@ Table online redefinition in PostgreSQL
 ## Concept
 
 ### Key Features
-1. Implemented in PLPGSQL
+1. Implemented in PL/pgSQL
 2. No additional extensions required
 3. Support for incremental data synchronization mode
 4. Preserves dependent objects (indexes, triggers, privileges) and their names
